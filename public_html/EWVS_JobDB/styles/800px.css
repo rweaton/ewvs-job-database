@@ -1,0 +1,31 @@
+#pageWrap{
+	width: 300px;
+	margin: auto ;
+
+}
+body {
+	font-size: 12px;
+	line-height: 25px;
+	margin: 0px;
+}
+#hdrTxt{
+	width: 600px;
+}
+.mainHdr {
+	font-size: 20px;
+	padding-left: 15px;
+}
+.subHdr {
+	padding-left: 15px;
+}
+
+input.searchField{
+	width: 203px;
+	background-image: url(../images/inputBar2.png);
+}
+
+table {
+	width: 100%;
+	float: left;
+
+}

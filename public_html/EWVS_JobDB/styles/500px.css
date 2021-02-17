@@ -1,0 +1,28 @@
+#pageWrap{
+	width: 200px;
+	margin-left: 0px;
+}
+body {
+	font-size: 12px;
+	line-height: 25px;
+	margin: 0px;
+}
+.mainHdr {
+	font-size: 18px;
+	padding-left: 15px;
+}
+#hdrTxt{
+	width: 350px;
+}
+
+.subHdr {
+	font-size: 10px;
+	line-height: 10px;
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+
+input.searchField{
+	width: 147px;
+	background-image: url(../images/inputBar3.png);
+}
